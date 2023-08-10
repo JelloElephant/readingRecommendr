@@ -10,13 +10,13 @@ npm install for dependancies
 [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Usage
-
+Find books by author or genere, save or delete books to your library, and read like never before
 
 ## Credits
 
 
 ## License
-
+MIT
 
 ## Tests
 
